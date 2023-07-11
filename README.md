@@ -1,13 +1,9 @@
-# Ministry of Health template
+# Iwi Māori Partnership Boards
 
-This repository provides the template for Ministry of Health repositories, a short description of what your repository is should go here. This summary should include a contact email and link to relevant Ministry of health pages.
+This repository holds the concordance files for Iwi-Māori Partnership Boards (IMPB) to Stats NZ meshblock 2013 (`impb_mb13.xlsx`), meshblock 2018 (`impb_mb18.xlsx`)and Domicile 2013 (`impb_dom13.xlsx`). These files aim to provide a geographic approximation of Iwi-Māori Partnership Board areas for creating health statisitics for IMPBs. 
 
-To create a new template, click the `use this template` -> `create repository` to create a new repository based on the template. All repositories should be created as private in the first instance before being shared publicly.
+A seperate shapefile is also provided to enable geospatial presentation of IMPB boundaries (`impb_shpfile.geojson`). This file is zipped due to size restraints.
 
+The boundaries shown in these files are superseded by the written definitions of the Iwi-Māori Partnership Board boundaries included in the [Pae Ora (Healthy Futures) Act 2022, Schedule 4](https://www.legislation.govt.nz/act/public/2022/0030/latest/LMS575405.html). 
 
----------------------------------------------------------------------------------
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). For more information, view the [Ministry of Health's copyright statement](https://www.health.govt.nz/about-site/copyright).
-
-This dashboard presents data to the latest year for which data is available for publication. We have quality checked the collection, extraction, and reporting of the data presented here. The Ministry of Health makes no warranty, expressed or implied, nor assumes legal liability or responsibility for the accuracy, correctness or use of the information or data in this dashboard.
-
-Please see the Ministry's [privacy statement](https://www.health.govt.nz/about-site/privacy-and-security).
+For further information please get in contact with [MāoriHealth@health.govt.nz](mailto:MāoriHealth@health.govt.nz?subject=[GitHub]).
