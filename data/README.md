@@ -6,6 +6,6 @@
 
 **Undefined** IMPBs account for the areas of Aotearoa that are not yet covered by an IMPB. 
 
-# Iwi-Māori Partnership Board shapefile
+# Iwi-Māori Partnership Board geometry
 -----------------------------
-* `impb_shpfile.zip` holds the .geojson shapefile for IMPBs
+* `impb_geometry.zip` holds the .geojson geometry files for IMPBs
