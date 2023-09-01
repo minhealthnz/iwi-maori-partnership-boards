@@ -1,6 +1,6 @@
 # Iwi Māori Partnership Boards
 
-This repository holds the concordance files for Iwi-Māori Partnership Boards (IMPB) to Stats NZ meshblock 2013 (`impb_mb13.xlsx`), meshblock 2018 (`impb_mb18.xlsx`)and Domicile 2013 (`impb_dom13.xlsx`). These files aim to provide a geographic approximation of Iwi-Māori Partnership Board areas for creating health statisitics for IMPBs. 
+This repository holds the concordance files for Iwi-Māori Partnership Boards (IMPB) to Stats NZ meshblock 2013 (`impb_mb13.xlsx`), meshblock 2018 (`impb_mb18.xlsx`), Domicile 2013 (`impb_dom13.xlsx`), and Statistical Area 2 2023 (`impb_sa2_2023.xlsx`). These files aim to provide a geographic approximation of Iwi-Māori Partnership Board areas for creating health statisitics for IMPBs. 
 
 A seperate geometry file is also provided to enable geospatial presentation of IMPB boundaries (`impb_geometry.geojson`). This file is zipped due to size restraints.
 
