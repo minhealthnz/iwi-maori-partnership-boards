@@ -9,4 +9,9 @@
 
 # Iwi-Māori Partnership Board geometry
 -----------------------------
-* `impb_geometry.zip` holds the .geojson geometry files for IMPBs
+* `impb_geometry_2026.zip` holds the .geojson geometry files for IMPBs
+* `impb_geom_water.zip` holds the .geojson geometry files for IMPBs, plus specific additional water areas 
+
+# 2026 update
+-------------------------
+All files were updated 1 May 2026 to reflect updates to Pae Ora (Healthy Futures) Legislation that occurred 15 January 2026. Updates also included adding water areas to IMPB areas to make them completely accurate to the legislated descriptions. 
