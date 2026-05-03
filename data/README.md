@@ -15,3 +15,8 @@
 # 2026 update
 -------------------------
 All files were updated 1 May 2026 to reflect updates to Pae Ora (Healthy Futures) Legislation that occurred 15 January 2026. Updates also included adding water areas to IMPB areas to make them completely accurate to the legislated descriptions. 
+
+**Name changes** Three IMPB names have been updated to more accurate spelling. You may need to take these changes into account when updating your IMPB data. They are as followings:
+*  Ngā Pou Hauora ō Tāmaki Makaurau -> Ng**aa** Pou Hauora **oo** T**aa**maki Makaurau
+*  Te Kahui Hauora o Te Tau Ihu -> Te K**ā**hui Hauora o Te Tau Ihu
+*  Tihei Takitimu -> Tihei T**ā**kitimu
